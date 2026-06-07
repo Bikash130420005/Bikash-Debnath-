@@ -1,0 +1,8 @@
+{
+  "name": "GS Quant Guide",
+  "description": "An interactive integration and reference guide for the Goldman Sachs gs-quant Python SDK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
